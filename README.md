@@ -25,6 +25,7 @@ Get tournaments by sponsor → /get-by-sponsor/{sponsorId}
 
 Reschedule a tournament → /reschedule-tournaments/{sponsor_id}/{tournamentId}
 
+<img width="707" height="292" alt="image" src="https://github.com/user-attachments/assets/602e74b3-412f-407c-bc33-4d8e9fb5732d" />
 
 
 
